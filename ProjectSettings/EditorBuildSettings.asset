@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/RenderTexture.unity
+    guid: 66a72eb03ab46fd44a39e158e6977a38
+  - enabled: 1
     path: Assets/HelloWebGL.unity
     guid: f586da38f6e34084abf03e591e338f6e
   m_configObjects: {}
